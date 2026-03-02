@@ -35,7 +35,7 @@ export default function Contact() {
               </div>
               <div className="contact-text">
                 <span>Адрес</span>
-                <p>г. Алматы, ул. Строительная, 123</p>
+                <p>г. Алматы, ул. Кәкімбек Салықов дом 42 </p>
               </div>
             </div>
 
